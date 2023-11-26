@@ -3,9 +3,9 @@
 using namespace std;
 int main (){
 	
-	char letter= z;
+	char letter= 'Z';
 	
-	cout << "The ASCII value of Z is = " << char(letter) << endl;
+	cout << "The ASCII value of Z is = " << int(letter) << endl;
 	
 	return 0;
 }
